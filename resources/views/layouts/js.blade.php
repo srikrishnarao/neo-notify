@@ -1,0 +1,12 @@
+<!-- Bootstrap core JavaScript-->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="{{ URL::asset('vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="{{ URL::asset('vendor/jquery-easing/jquery.easing.min.js')}}"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="{{ URL::asset('js/sb-admin-2.min.js')}}"></script>
+
+<script src="{{ URL::asset('vendor/jquery/jquery.min.js')}}"></script>

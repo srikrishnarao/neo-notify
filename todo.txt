@@ -1,0 +1,8 @@
+Author : Srikrishna
+
+Jan 23 
+
+1. Add table in inventory - product check
+2. Add shop info to db
+2. Edit Shop info using restful controller
+3. Delete Shop info using restful controller
